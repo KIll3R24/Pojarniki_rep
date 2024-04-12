@@ -1,9 +1,4 @@
-2024/04/12-12:40:28.216 6a00 Reusing MANIFEST C:/Users/nikit/Documents/Unreal Projects/Pozjarniki/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/04/12-12:40:28.218 6a00 Recovering log #3
-2024/04/12-12:40:28.218 6a00 Level-0 table #3: started
-2024/04/12-12:40:28.254 6a00 Level-0 table #3: 2520 bytes OK
-2024/04/12-12:40:28.270 6a00 Recovering log #6
-2024/04/12-12:40:28.271 6a00 Reusing old log C:/Users/nikit/Documents/Unreal Projects/Pozjarniki/Saved/webcache_4430\Local Storage\leveldb/000006.log 
-2024/04/12-12:40:28.273 6a00 Delete type=0 #3
-2024/04/12-12:40:28.273 6a00 Delete type=2 #5
-2024/04/12-12:40:28.273 6a00 Delete type=2 #7
+2024/04/12-16:02:30.083 434 Reusing MANIFEST C:/GitHub/Pojarniki_rep/Pozjarniki/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/04/12-16:02:30.084 434 Recovering log #6
+2024/04/12-16:02:30.085 434 Reusing old log C:/GitHub/Pojarniki_rep/Pozjarniki/Saved/webcache_4430\Local Storage\leveldb/000006.log 
+2024/04/12-16:02:30.086 434 Delete type=0 #3
