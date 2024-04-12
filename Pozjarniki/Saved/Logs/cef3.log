@@ -1,10 +1,2 @@
-[0412/124028.124:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
-[0412/124029.044:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0412/124030.968:WARNING:storage_block-inl.h(146)] Failed data load.
-[0412/124030.968:WARNING:storage_block-inl.h(146)] Failed data load.
-[0412/124030.968:WARNING:storage_block-inl.h(146)] Failed data load.
-[0412/124030.968:WARNING:storage_block-inl.h(146)] Failed data load.
-[0412/124030.968:ERROR:entry_impl.cc(998)] Failed to save user data
-[0412/124030.968:ERROR:entry_impl.cc(998)] Failed to save user data
-[0412/124053.194:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0412/124228.262:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0412/130741.040:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0412/130935.154:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
