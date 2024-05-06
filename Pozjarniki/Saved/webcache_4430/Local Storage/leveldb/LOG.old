@@ -1,3 +1,2 @@
-2024/04/12-15:20:12.655 20e8 Reusing MANIFEST C:/Users/nikit/Documents/Unreal Projects/Pozjarniki/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/04/12-15:20:12.660 20e8 Recovering log #6
-2024/04/12-15:20:12.660 20e8 Reusing old log C:/Users/nikit/Documents/Unreal Projects/Pozjarniki/Saved/webcache_4430\Local Storage\leveldb/000006.log 
+2024/05/03-23:20:15.492 2970 Creating DB C:/GitHub/Pojarniki_rep/Pozjarniki/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/05/03-23:20:15.515 2970 Reusing MANIFEST C:/GitHub/Pojarniki_rep/Pozjarniki/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
